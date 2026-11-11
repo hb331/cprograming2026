@@ -1,4 +1,5 @@
 #include <stdio.h>
 int main(void) {
-	printf("Hello World");
+	printf("I like C programming");
+	printf("My name is");
 }
